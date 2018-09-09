@@ -1,3 +1,8 @@
-# :maple_leaf: ERLANG_CORE
+## :maple_leaf: CORE
 
-## Erlang Basic Application... coming soon!
+#### Erlang BREF
+#### Erlang BIF
+#### Erlang CORE
+#### JS BREF
+#### JS BIF
+#### JS CORE
