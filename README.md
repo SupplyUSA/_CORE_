@@ -1,8 +1,8 @@
 ## :maple_leaf: CORE
 
-#### Erlang BREF
-#### Erlang BIF
-#### Erlang CORE
-#### JS BREF
-#### JS BIF
-#### JS CORE
+#### :tomato: Erlang BREF
+#### :tomato: Erlang BIF
+#### :tomato: Erlang CORE
+#### :tomato: JS BREF
+#### :tomato: JS BIF
+#### :tomato: JS CORE
